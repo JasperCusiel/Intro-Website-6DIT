@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+
+
+p {
+    padding: 0 2% 0 2%;
+    font-family: 'Work Sans', sans-serif;
+    
+}
+.header-section{
+    background-color: rgb(11, 150, 143);
+    margin: 0 0 0 0;
+    
+}
+
+.header-text {
+    color: rgb(255,255,255);
+    font-family: 'MuseoModerno', cursive;
+    line-height: 1.2;
+    font-size: 2vw;
+    width: 20%;
+    display: inline-block;
+    margin: 10% auto 5% 5%;
+    }
+
+.header-image {
+    width: 55%;
+    display: inline-block; 
+    margin: 5% auto 5% 0;
+}
+
+.subtitle {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 4vw;
+    padding: 0 2% 0 2%;
+    color: rgb(65,63,63);
+    text-align:center;
+}
+
+img {
+    width: 100%;
+}
+
+.first-section {
+    height: inherit;
+    margin: 1% 0 0 0 ;
+    padding: 1% 1% 1% 1%;
+    color: rgb(63,63,63);
+    font-size: 1.8vw;
+    background-color: rgb(248,248,248);
+    
+}
+
